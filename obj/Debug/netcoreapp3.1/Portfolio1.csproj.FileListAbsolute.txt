@@ -29,3 +29,5 @@ C:\Users\krisb\OneDrive\Desktop\Coding_Dojo\C#\Portfolio1\obj\Debug\netcoreapp3.
 C:\Users\krisb\OneDrive\Desktop\Coding_Dojo\C#\Portfolio1\obj\Debug\netcoreapp3.1\Portfolio1.pdb
 C:\Users\krisb\OneDrive\Desktop\Coding_Dojo\C#\Portfolio1\obj\Debug\netcoreapp3.1\Portfolio1.genruntimeconfig.cache
 C:\Users\krisb\OneDrive\Desktop\Coding_Dojo\C#\Portfolio1\obj\Debug\netcoreapp3.1\Portfolio1.csproj.CopyComplete
+C:\Users\krisb\OneDrive\Desktop\Coding_Dojo\C#\Portfolio1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\krisb\OneDrive\Desktop\Coding_Dojo\C#\Portfolio1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs

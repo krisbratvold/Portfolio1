@@ -5,21 +5,21 @@ namespace Portfolio1
     {
         [Route("")]
         [HttpGet]
-        public string Index()
+        public ViewResult Index()
         {
-            return "This is my Index!";
+            return View();
         }
         [Route("/projects")]
         [HttpGet]
-        public string Projects()
+        public ViewResult Projects()
         {
-            return "These are my projects";
+            return View();
         }
         [Route("/contact")]
         [HttpGet]
-        public string Contact()
+        public ViewResult Contact()
         {
-            return "This is my Contact!";
+            return View();
         }
     }
 }

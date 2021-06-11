@@ -1,0 +1,72 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+.nav a{
+    margin-right: 15px;
+    font-size: larger;
+}
+.title {
+    text-align: center;
+}
+.bot{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.left img {
+    height: 30vh;
+}
+.right {
+    width: 25vw;
+    height: 30vh;
+    margin-left: 30px;
+    font-size: larger;
+}
+.right p{
+    margin: 0;
+}
+.center{
+    text-align: center;
+}
+.projects{
+    height: 50vh;
+    border: 1px black solid;
+    margin: 70px;
+    overflow-y: auto;
+    padding: 10px;
+}
+.projects img{
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+}
+.project_cont {
+    position: relative;
+    width: 600px; 
+    margin: auto;
+    vertical-align: middle;
+}
+.item {
+    display: flex;
+    align-items: center;
+}
+.right_proj{
+    margin-right: 10px;
+}
+.field{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    display: block;
+    margin-top: 5px;
+}
+textarea{
+    display: block;
+    margin-top: 5px;
+}
